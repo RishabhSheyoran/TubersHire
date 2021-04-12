@@ -26,7 +26,7 @@ SECRET_KEY = ')#nen7@b%6#q+e1d7tmni#^smpkd3k=dzk(s64@x9+)ap*8080'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "youtubers1234.herokuapp.com"
+    "youtuber-hire.herokuapp.com"
 ]
 
 LOGIN_REDIRECT_URL = 'dashboard'
