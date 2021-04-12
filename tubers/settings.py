@@ -25,9 +25,8 @@ SECRET_KEY = ')#nen7@b%6#q+e1d7tmni#^smpkd3k=dzk(s64@x9+)ap*8080'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    "youtuber-hire.herokuapp.com"
-]
+ALLOWED_HOSTS = ["youtuber-hire.herokuapp.com" ,"127.0.0.1"]
+
 
 LOGIN_REDIRECT_URL = 'dashboard'
 # Application definition
